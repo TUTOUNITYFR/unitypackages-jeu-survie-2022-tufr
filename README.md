@@ -11,6 +11,7 @@ Vous retrouverez également dans la description de chaque épisode de la série,
 Cliquez sur l'un des liens ci-dessous pour accéder au fichier puis cliquez sur le bouton "Download".
 
 [Fichier de l'épisode 1](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode01/personnage-et-environnement.unitypackage)
+[Fichier de l'épisode 2](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode02/items-et-inventaire.unitypackage)
 
 
 Une fois le fichier téléchargé : vérifiez que votre Editeur Unity est ouvert (version 2021.3 uniquement !) puis double cliquez sur le fichier téléchargé pour l'importer.

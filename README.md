@@ -1,7 +1,7 @@
 ## Fichiers pour la série Créer un jeu de survie facilement (TUTOUNITYFR)
 Ce répo contient les fichiers .unitypackage permettant d'importer tout le nécessaire pour suivre la série "Créer un jeu de survie facilement sur Unity" réalisée par zef de la [TUTO UNITY FR](https://www.youtube.com/c/tutounityfr).
 
-[![Alt text](https://www.tutounity.fr/upload/github/survival2022/miniature-survie01.jpg)](https://www.youtube.com/c/tutounityfr)
+[![Alt text](https://www.tutounity.fr/upload/github/survival2022/miniature-survie.jpg)](https://www.youtube.com/c/tutounityfr)
 
 ## Fichiers .unitypackage
 Les fichiers à importer sont rangés par épisode.

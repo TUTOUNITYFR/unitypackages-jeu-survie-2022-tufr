@@ -17,6 +17,7 @@ Cliquez sur l'un des liens ci-dessous pour accéder au fichier puis cliquez sur 
 - [Fichier de l'épisode 5](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode05/actions-et-types-items.unitypackage)
 - [Fichier de l'épisode 6](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode06/equipements-du-personnage.unitypackage)
 - [Fichier de l'épisode 7](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode07/affichage-des-equipements.unitypackage)
+- Fichier de l'épisode 8 : Rien à importer
 
 
 Une fois le fichier téléchargé : vérifiez que votre Editeur Unity est ouvert (version 2021.3 uniquement !) puis double cliquez sur le fichier téléchargé pour l'importer.

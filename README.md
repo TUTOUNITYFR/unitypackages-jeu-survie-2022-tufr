@@ -22,5 +22,6 @@ Cliquez sur l'un des liens ci-dessous pour accéder au fichier puis cliquez sur 
 - [Fichier de l'épisode 10](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode10/miner-de-la-pierre.unitypackage)
 - [Fichier de l'épisode 11](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode11/couper-des-arbres.unitypackage)
 - [Fichier de l'épisode 12](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode12/buche-de-bois.unitypackage)
+- [Fichier de l'épisode 13](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode13/icones-systeme-de-craft.unitypackage)
 
 Une fois le fichier téléchargé : vérifiez que votre Editeur Unity est ouvert (version 2021.3 uniquement !) puis double cliquez sur le fichier téléchargé pour l'importer.

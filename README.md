@@ -29,5 +29,7 @@ Cliquez sur l'un des liens ci-dessous pour accéder au fichier puis cliquez sur 
 - [Fichier de l'épisode 17](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode17/ajout-des-consommables.unitypackage)
 - [Fichier de l'épisode 18](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode18/ajout-de-l-intelligence-artificielle.unitypackage)
 - [Fichier de l'épisode 20](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode20/ajout-des-armes.unitypackage)
+- Fichier de l'épisode 21 : Rien à importer
+- [Fichier de l'épisode 22](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode22/systeme-construction.unitypackage)
 
 Une fois le fichier téléchargé : vérifiez que votre Editeur Unity est ouvert (version 2021.3 uniquement !) puis double cliquez sur le fichier téléchargé pour l'importer.

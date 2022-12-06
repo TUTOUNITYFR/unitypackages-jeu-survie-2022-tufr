@@ -33,5 +33,6 @@ Cliquez sur l'un des liens ci-dessous pour accéder au fichier puis cliquez sur 
 - [Fichier de l'épisode 22](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode22/systeme-construction.unitypackage)
 - Fichier de l'épisode 23 : Rien à importer
 - [Fichier de l'épisode 24](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode24/creation-d-un-niveau.unitypackage)
+- [Fichier de l'épisode 25](https://github.com/TUTOUNITYFR/unitypackages-jeu-survie-2022-tufr/blob/main/Episode25/ajout-des-sons.unitypackage)
 
 Une fois le fichier téléchargé : vérifiez que votre Editeur Unity est ouvert (version 2021.3 uniquement !) puis double cliquez sur le fichier téléchargé pour l'importer.
